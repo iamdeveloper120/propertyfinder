@@ -28,3 +28,11 @@ Run on real life device (Android)
     • Connect your device  
     • lsusb (this command shows all devices connected to the system)  
     • adb devices (check is device connected or not)
+
+Start react native server
+
+    react-native start
+    
+Run application on android mobile
+
+    react-native run-android
